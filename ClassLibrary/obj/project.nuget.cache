@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjrTpW6HHuM72ljzN5Qc59Jl6qGBMSCYvffgW8lCHNicz+YN5YdnP5XSPMyMhEIliSKA7/AU98/C9yMQw2q2yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anas\\Downloads\\myProjects\\projetC#3.0\\StudentsResultsManagement\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

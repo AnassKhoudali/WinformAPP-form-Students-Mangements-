@@ -1,0 +1,53 @@
+html {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.Wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-decoration: underline;
+    font-size: larger;
+    margin-bottom: 40px;
+}
+
+.informationPersonnelles, .Relevé_de_Notes, .Moyenne{
+    margin-bottom: 40px;
+}
+
+.Relevé_de_Notes{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+td, th{
+    border: 2px solid #000;
+    width: 600px;
+    height: 20px;
+    text-align: center;
+}
+footer{
+    justify-content:flex-end;
+    font-size: small;
+}
+
+main{
+    flex : 1;
+}
+

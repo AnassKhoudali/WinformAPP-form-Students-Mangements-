@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzsquWm3TD433+w8PzIs96N7QhWBD9K7jy4SqWkMRrB5xOXoGY3vH5mosPZUTSttCwXBwxuYmvJ/v6hxrKlBYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anas\\Downloads\\myProjects\\projetC#3.0\\StudentsResultsManagement\\GestionNotesEtudiants\\GestionNotesEtudiants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\anas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

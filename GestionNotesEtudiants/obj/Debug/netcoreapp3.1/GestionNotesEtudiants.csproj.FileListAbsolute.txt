@@ -1,0 +1,121 @@
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csprojAssemblyReference.cache
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfoInputs.cache
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfo.cs
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.Form1.resources
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeEtudiants.resources
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.exe
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.deps.json
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.json
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.dev.json
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CopyComplete
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\source\repos\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.genruntimeconfig.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.exe
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.deps.json
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.json
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.dev.json
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csprojAssemblyReference.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeEtudiants.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfoInputs.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfo.cs
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CopyComplete
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.genruntimeconfig.cache
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.Acceuil.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeCours.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ajouterNouvelEtudiant.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AfficherResultatsEtudiant.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AjouterCours.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.DonnerNote.resources
+C:\Users\anas\Desktop\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.InscrireEtudiant.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.exe
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.deps.json
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.json
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.dev.json
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csprojAssemblyReference.cache
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.Acceuil.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AfficherResultatsEtudiant.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AjouterCours.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ajouterNouvelEtudiant.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.DonnerNote.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.InscrireEtudiant.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeCours.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeEtudiants.resources
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfoInputs.cache
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfo.cs
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CopyComplete
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.genruntimeconfig.cache
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.exe
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.deps.json
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.json
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.dev.json
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.AssemblyReference.cache
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.Acceuil.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AfficherResultatsEtudiant.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AjouterCours.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ajouterNouvelEtudiant.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.DonnerNote.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.InscrireEtudiant.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeCours.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeEtudiants.resources
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfoInputs.cache
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfo.cs
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CopyComplete
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Desktop\cours\semestre2(winter2021)\unfinished c#project\Nouveau dossier (2)\projetC#3.0\ProjetFinal2695955AnassKhoudali\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.genruntimeconfig.cache
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.exe
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.deps.json
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.json
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.runtimeconfig.dev.json
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.AssemblyReference.cache
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.Acceuil.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AfficherResultatsEtudiant.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AjouterCours.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ajouterNouvelEtudiant.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.DonnerNote.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.InscrireEtudiant.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeCours.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.ListeEtudiants.resources
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfoInputs.cache
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.AssemblyInfo.cs
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.csproj.CopyComplete
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.dll
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.pdb
+C:\Users\anas\Downloads\myProjects\projetC#3.0\StudentsResultsManagement\GestionNotesEtudiants\obj\Debug\netcoreapp3.1\GestionNotesEtudiants.genruntimeconfig.cache

@@ -1,0 +1,72 @@
+html {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.Wrapper{
+    max-width: 800px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+    box-shadow: 0 0 20px black;
+    border : 1px solid black;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-decoration: underline;
+    font-size: larger;
+    margin-bottom: 40px;
+}
+
+.informationPersonnelles,.Moyenne{
+    line-height: 1.5rem;
+}
+.informationPersonnelles, .Relevé_de_Notes, .Moyenne{
+    margin-bottom: 20px;
+    
+}
+
+.Relevé_de_Notes{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+td, th{
+    border: 2px solid #000;
+    width: 600px;
+    height: 20px;
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content:center;
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+main{
+    flex : 1;
+}
+
+div.image{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+}
